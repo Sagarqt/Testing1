@@ -20,5 +20,7 @@ public class Demo12 {
 	}
 	public static void main(String[] args) {
 		System.out.println("MAIN HII");
+		Demo12 d=new Demo12();
+		d.m1();
 	}
 }
