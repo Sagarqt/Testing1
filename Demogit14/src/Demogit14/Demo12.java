@@ -2,6 +2,11 @@ package Demogit14;
 
 public class Demo12 {
 
+	public void m5()
+	{
+		System.out.println("m5");
+	}
+	
 	
 	public void m4()
 	{
