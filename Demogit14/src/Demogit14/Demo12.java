@@ -22,5 +22,6 @@ public class Demo12 {
 		System.out.println("MAIN HII");
 		Demo12 d=new Demo12();
 		d.m1();
+		d.m2();
 	}
 }
